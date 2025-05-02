@@ -1,12 +1,3 @@
-# Front-end : Loomart
-
-<!-- 
-
-
-
-
-
- -->
 
 # Back-end : Loomart
 
